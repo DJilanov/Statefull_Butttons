@@ -6,11 +6,11 @@ The easy configurable statefullness plugin that can get all of your buttons to m
 
 [![Buttons](Screenshots/buttons.png)](Screenshots/buttons.png)
 
-The main reason I created that plugin was because in my proffesional expirience i had many times seen how people split hate to many web pages that are actually not bad ,only becouse "Its not working" problem... actually everything was working fine but when you have slow connection sometimes the data is fetched after 10 seconds and in that time people want to know is something working in the moment or it just bugged. That is the case when you would like to use the statefullness.
+The main reason I created that plugin was due to the observation in my proffesional expirience that shows how many people tend to split hate to many web pages that are actually not bad, without actually taking account of what is wrong. In actuality, even if everything was working fine but when the connection is slow sometimes the data is fetched after 10 seconds and in that time people want to know whether something is currently working or it just bugged. That is the occasion where you would like to use the statefullness.
 
 * Supports almost all of the webpages (uses jquery and bootstrap from version 1 up to latest version with all of the differences)
 * Support is easy to be handled (you call the function setState(object,state) whenever you like)
-* Customisable style (it is explained in a way which does not require any knowledge of programming to grasp)
+*  Customisable style (it is explained in a way which does not require any knowledge of programming to grasp)
 
 ### Installation
 
