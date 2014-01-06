@@ -18,7 +18,7 @@ The main reason I created that plugin was due to the observation in my proffesio
 
 2. Copy it to your scrpt folder.
 
-3. Attack the script to your webpage ( <script src="../js/statefullButtons.js"></script> ).
+3. Attach the script to your webpage ( <script src="../js/statefullButtons.js"></script> ).
 
 #### Example Usage
 
