@@ -1,8 +1,8 @@
-#Description
+# Description
 
 The easy configurable statefullness plugin that can get all of your buttons to much higher user frendliness!
 
-##When to use
+## When to use
 
 [![Buttons](Screenshots/buttons.png)](Screenshots/buttons.png)
 
